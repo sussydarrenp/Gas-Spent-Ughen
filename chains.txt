@@ -1,0 +1,7 @@
+eth-mainnet
+matic-mainnet
+bsc-mainnet
+avalanche-mainnet
+arbitrum-mainnet
+optimism-mainnet
+zksync-mainnet
